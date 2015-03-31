@@ -21,4 +21,4 @@ Developers can see how many other people have RSVPed so far!
 /headcount 
 ````
 ###Further Documentation
-If interested in the development of this project, there are code snippets labeled "snippets_server.txt" that were tested and for various reasons (noted within the document) and deemed unusable or a better solution was discovered. Thanks for your interest!
+If interested in the development of this project, there are [code snippets](https://github.com/sunsheeppoplar/signature_carroll/blob/master/snippets_server.txt) that were tested and for various reasons (noted within the document) and deemed unusable or a better solution was discovered. Thanks for your interest!
