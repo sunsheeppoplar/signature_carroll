@@ -10,13 +10,15 @@ When developers connect via telnet, they'll see an opening message that provides
 +RSVPing
 Users must use the following format to add themselves
 ````
-/name (followed by your full name)
+/rsvp first name + last name + email (pluses are spaces)
 
-example: /name John Doe
+example: /rsvp Abner Yang abtyang@gmail.com
 
-
-
-/email (followed by your email)
-
-example: /email JohnDoe@gmail.com
 ````
++Head Count
+Developers can see how many other people have RSVPed so far!
+````
+/headcount 
+````
+###Further Documentation
+If interested in the development of this project, there are code snippets labeled "snippets_server.txt" that were tested and for various reasons (noted within the document) and deemed unusable or a better solution was discovered. Thanks for your interest!

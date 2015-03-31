@@ -1,0 +1,10 @@
+if (all[0] === "/name") {
+		names.push(all[1] + " " + all[2])
+		console.log(names)
+		 }
+		 if (all[0] === "/email") {
+		 	emails.push(all[1])
+		 console.log(emails)
+		 }	console.log(names + ", " + emails + "; ")
+
+ran into issues with concactenation 
