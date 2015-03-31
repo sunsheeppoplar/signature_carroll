@@ -8,4 +8,15 @@ As always, if there are any questions, comments, or concerns, please email me at
 When developers connect via telnet, they'll see an opening message that provides the **date** and **topic** for that day. 
 
 +RSVPing
-Users must use the format 
+Users must use the following format to add themselves
+````
+/name (followed by your full name)
+
+example: /name John Doe
+
+
+
+/email (followed by your email)
+
+example: /email JohnDoe@gmail.com
+````
