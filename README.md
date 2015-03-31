@@ -27,12 +27,13 @@ Anyone can see when the next meeting is and what we'll be talking about.
 ````
 
 +Administrative Notes
+````
 	1. To reset the list of those who RSVPed, input the following: /clear /carrollwascatholic
 
 	2. Still working on multi-word topics. For now you'll just have to enter /datetopic /decOfInd with the date in the third slot and topic in the fourth after that. 
 
 	3. To print the list of those those who RSVPed, input /print /holysee
-
+````
 
 
 ###Further Documentation
