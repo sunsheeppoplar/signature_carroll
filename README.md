@@ -26,7 +26,9 @@ Anyone can see when the next meeting is and what we'll be talking about.
 /whatsup
 ````
 +Host
+````
 This project is hosted at the IP address: 45.55.155.39 8888
+````
 
 +Administrative Notes
 ````
