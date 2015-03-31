@@ -4,5 +4,8 @@ Welcome to the documentation for our new TCP application, which we hope will ser
 As always, if there are any questions, comments, or concerns, please email me at *abtyang@gmail.com* or find me on *[GitHub](github.com/sunsheeppoplar)*.
 
 ###Features
-*Opening Message
++Opening Message
 When developers connect via telnet, they'll see an opening message that provides the **date** and **topic** for that day. 
+
++RSVPing
+Users must use the format 
