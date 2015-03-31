@@ -7,7 +7,15 @@ As always, if there are any questions, comments, or concerns, please email me at
 +Opening Message
 When developers connect via telnet, they'll see an opening message that provides the **date** and **topic** for that day. 
 
+
+
+
 +RSVPing
+
+
+
+
+
 Users must use the following format to add themselves
 ````
 /rsvp first name + last name + email (pluses are spaces)
@@ -15,20 +23,37 @@ Users must use the following format to add themselves
 example: /rsvp Abner Yang abtyang@gmail.com
 
 ````
+
+
+
+
+
 +Head Count
+
+
 Developers can see how many other people have RSVPed so far!
 ````
 /headcount 
 ````
+
+
 +Date and Topic
+
+
 Anyone can see when the next meeting is and what we'll be talking about.
 ````
 /whatsup
 ````
+
+
+
 +Host
 ````
 This project is hosted at the IP address: 45.55.155.39 8888
 ````
+
+
+
 
 +Administrative Notes
 ````
