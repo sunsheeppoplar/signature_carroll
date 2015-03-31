@@ -6,7 +6,7 @@ var topic = [];
 var server = net.createServer(function(socket) {
 	socket.on('data', function(data) {
 		var all = data.toString().trim().split(" ");
-		socket.write("Welcome! Check out these commands: /rsvp, /headount, and /whatsup")	
+		socket.write("Welcome! Check out these commands (all start with "/"): rsvp, whatsup, and /headcount")	
 
 
 		// to rsvp
