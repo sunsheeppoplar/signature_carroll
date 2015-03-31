@@ -25,7 +25,8 @@ Anyone can see when the next meeting is and what we'll be talking about.
 ````
 /whatsup
 ````
-
++Host
+This project is hosted at the IP address: 45.55.155.39 8888
 +Administrative Notes
 ````
 	1. To reset the list of those who RSVPed, input the following: /clear /carrollwascatholic
@@ -34,6 +35,7 @@ Anyone can see when the next meeting is and what we'll be talking about.
 
 	3. To print the list of those those who RSVPed, input /print /holysee
 ````
+
 
 
 ###Further Documentation
