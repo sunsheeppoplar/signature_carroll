@@ -20,5 +20,20 @@ Developers can see how many other people have RSVPed so far!
 ````
 /headcount 
 ````
++Date and Topic
+Anyone can see when the next meeting is and what we'll be talking about.
+````
+/whatsup
+````
+
++Administrative Notes
+	1. To reset the list of those who RSVPed, input the following: /clear /carrollwascatholic
+
+	2. Still working on multi-word topics. For now you'll just have to enter /datetopic /decOfInd with the date in the third slot and topic in the fourth after that. 
+
+	3. To print the list of those those who RSVPed, input /print /holysee
+
+
+
 ###Further Documentation
-If interested in the development of this project, there are [code snippets](https://github.com/sunsheeppoplar/signature_carroll/blob/master/snippets_server.txt) that were tested and for various reasons (noted within the document) and deemed unusable or a better solution was discovered. Thanks for your interest!
+If interested in the development of this project, there are [code snippets](https://github.com/sunsheeppoplar/signature_carroll/blob/master/snippets_server.txt) that were tested and for various reasons (noted within the document) deemed unusable or a better solution was discovered. The script for client was used in the testing of this server. Thanks for your interest!
