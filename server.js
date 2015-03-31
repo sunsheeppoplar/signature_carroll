@@ -4,10 +4,11 @@ var rsvp = [];
 var date = [];
 var topic = [];
 var server = net.createServer(function(socket) {
+	socket.write("Welcome! Check out these commands (all start with "/"): rsvp, whatsup, and /headcount")
+
+
 	socket.on('data', function(data) {
 		var all = data.toString().trim().split(" ");
-		socket.write("Welcome! Check out these commands (all start with "/"): rsvp, whatsup, and /headcount")	
-
 
 		// to rsvp
 
